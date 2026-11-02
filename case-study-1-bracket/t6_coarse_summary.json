@@ -1,0 +1,36 @@
+{
+  "job": "t6_coarse",
+  "step": "bracket_t6.step",
+  "mesh_h_mm": 4.0,
+  "n_nodes": 14438,
+  "n_elements": 7201,
+  "n_fix_nodes": 2395,
+  "n_load_nodes": 509,
+  "load_total_N": 500.0,
+  "max_disp_mm": 0.4082124323703147,
+  "max_disp_node": 488,
+  "max_disp_loc": [
+    95.0,
+    -4.0,
+    90.0
+  ],
+  "disp_at_max": [
+    0.0199632,
+    2.02842e-05,
+    -0.407724
+  ],
+  "max_von_mises_MPa": 105.34159998856578,
+  "max_vm_node": 3005,
+  "max_vm_loc": [
+    8.489270344424282,
+    10.999973519103435,
+    83.70374079921423
+  ],
+  "yield_MPa": 355.0,
+  "safety_factor": 3.369988684798154,
+  "reaction_sum_on_fixed_face_N": [
+    -0.0005749152312915619,
+    5.704458635892411e-05,
+    499.99924725512403
+  ]
+}

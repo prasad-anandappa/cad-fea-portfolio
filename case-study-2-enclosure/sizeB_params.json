@@ -1,0 +1,21 @@
+{
+  "board": {
+    "l": 120.0,
+    "w": 90.0,
+    "comp_h": 22.0
+  },
+  "fixed": {
+    "wall": 2.4,
+    "clearance": 3.0,
+    "standoff": 4.0
+  },
+  "base_outer": {
+    "l": 130.8,
+    "w": 100.8,
+    "h": 34.0
+  },
+  "closed_height": 36.4,
+  "base_volume_mm3": 71532.34979952479,
+  "lid_volume_mm3": 35633.40135626854,
+  "vent_rows": 10
+}
